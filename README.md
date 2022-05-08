@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will have created a recipe list which will demonstrate my ability to utilize html. I hope to be able to exemplify how I can use lists, images, links, headings, paragraphs. Also, learning to use git.
